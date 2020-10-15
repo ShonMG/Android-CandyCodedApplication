@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -60,7 +66,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -129,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
       <workItem from="1602742604638" duration="1665000" />
-      <workItem from="1602746777657" duration="896000" />
+      <workItem from="1602746777657" duration="2290000" />
     </task>
     <servers />
   </component>
@@ -157,22 +163,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="737" y="249" width="426" height="477" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602746823708" />
-    <state width="1874" height="125" key="GridCell.Tab.0.bottom" timestamp="1602746864688">
+    <state width="1874" height="290" key="GridCell.Tab.0.bottom" timestamp="1602748378609">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602746864687" />
-    <state width="1874" height="125" key="GridCell.Tab.0.center" timestamp="1602746864687">
+    <state width="1874" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602748378609" />
+    <state width="1874" height="290" key="GridCell.Tab.0.center" timestamp="1602748378608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="125" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602746864687" />
-    <state width="1874" height="125" key="GridCell.Tab.0.left" timestamp="1602746864686">
+    <state width="1874" height="290" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602748378608" />
+    <state width="1874" height="290" key="GridCell.Tab.0.left" timestamp="1602748378607">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="125" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602746864686" />
-    <state width="1874" height="125" key="GridCell.Tab.0.right" timestamp="1602746864687">
+    <state width="1874" height="290" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602748378607" />
+    <state width="1874" height="290" key="GridCell.Tab.0.right" timestamp="1602748378608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="125" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602746864687" />
+    <state width="1874" height="290" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602748378608" />
     <state x="441" y="72" width="1026" height="838" key="SettingsEditor" timestamp="1602743003347">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
